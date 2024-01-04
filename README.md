@@ -1,3 +1,8 @@
+Ubicate en el directorio y ejecuta los siguientes comandos para levantar la plantilla.
+
+- npm i
+- npm run dev
+
 dark mode React + TailwindCSS
 
 ## antes de usar daisyui debes instalar TailwindCSS
