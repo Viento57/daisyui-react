@@ -1,6 +1,6 @@
-dark mode react + tailwindCss
+dark mode React + TailwindCSS
 
-## antes de usar daisyui debes instalar tailwindCss
+## antes de usar daisyui debes instalar TailwindCSS
 
 - https://youtu.be/B-MzDlbxHRw
 - https://daisyui.com/docs/themes/
@@ -11,17 +11,19 @@ dark mode react + tailwindCss
   materiales icons
 - https://lucide.dev/icons/?focus=
 
+**Refran**
+
 Despues de todo
 "Para que la palabra suene debe haber silencio
 Antes de ella y despues de ella"
 
-## Ursula Le Guin
+**Author: Ursula Le Guin**
 
-nuevo sidebar automatic
+## nuevo sidebar automatic
 
 - https://youtu.be/TNoThYg5dvo?t=103
 
-## nuevo componentes para react
+## mas componentes para react
 
 https://www.material-tailwind.com/?ref=tailwindcomponents
 
